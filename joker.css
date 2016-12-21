@@ -1,0 +1,31 @@
+#back{
+	background-color: black;
+	color:#ffd700;
+	background-attachment: fixed;
+}
+img{
+	border: none;
+}
+#what{
+	background:black;
+	border:none;
+}
+#whatcaption{
+	color:#ffd700;
+}
+ul li{
+	list-style-type: lower-greek;
+	list-style-position: inside;
+	text-align: left;
+	padding:5px 0px;
+}
+#special{
+	width:500px;
+	text-align:center;
+	position:relative;
+	left:250px;
+}
+#hello{
+	border-left:5px solid black;
+	
+}
